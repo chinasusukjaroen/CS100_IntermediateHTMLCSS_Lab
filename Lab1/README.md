@@ -51,6 +51,14 @@ This file contains the structure we will style using CSS.
 
 ---
 ### Step 3: Styling the Page Body
+*
+{
+   color: brown;
+   margin: 0px;
+   padding : 0px;
+   box-sizing: border-box;
+
+}
 - Add the following styles to your CSS file under the previous code:
     - Set font family to Arial for better readability.
 ```css
