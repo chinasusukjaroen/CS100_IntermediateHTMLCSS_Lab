@@ -72,6 +72,14 @@ This file contains the structure we will style using CSS.
     - Add borders as gray color solid lines to separate each section.
     - Center the text in each section.
 ```css
+header,nav,article,div,footer
+{
+   padding: 10px;
+   background-color: yellow;
+   border: 1px solid gray;
+   text-align: center;
+
+}
 ```
 
 ---
