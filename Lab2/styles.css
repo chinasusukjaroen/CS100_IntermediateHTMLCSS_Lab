@@ -27,8 +27,12 @@ header p {
 /* Navigation Styles */
 nav {
     background-color: #ffa41b;
-    padding: 15px;
+    padding-top:20px ;
     text-align: center;
+    float: left;
+    width: 20%;
+    height: 100vh;
+   
 }
 
 nav ul {
@@ -59,6 +63,8 @@ nav ul li a:hover {
 /* Main Content Styles */
 main {
     padding: 20px;
+    width: 75%;
+    float: right;
 }
 
 /* Info Section Styles */
@@ -141,6 +147,8 @@ footer {
     background-color: #ffe066;
     padding: 10px;
     text-align: center;
+   clear: both;
+    
 }
 
 footer p {
