@@ -20,3 +20,10 @@ header,nav,article,div,footer
    text-align: center;
 
 }
+
+header
+
+{
+   margin: 100px;
+
+}
